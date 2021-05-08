@@ -35,7 +35,7 @@
                     header('Location:admin/index.php');
                 }
                 else{
-                    //member dsaasdasd
+                    //member dsadwaấ
                     header('Location:index.php');                    
                 }
             }
