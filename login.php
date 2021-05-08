@@ -1,7 +1,6 @@
 <?php
     session_start();
 ?>
-
 <?php
     require_once("libs/db.php");
     if(isset($_POST["btn_login"])){
@@ -36,7 +35,7 @@
                     header('Location:admin/index.php');
                 }
                 else{
-                    //member
+                    //member dsaasdasd
                     header('Location:index.php');                    
                 }
             }
