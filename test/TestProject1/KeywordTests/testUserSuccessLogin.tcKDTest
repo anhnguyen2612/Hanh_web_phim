@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="14.0">
+	<TestData Description="" Key="{95A5F982-0A41-4584-A911-70792746CC32}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.browser.pageTrangCh" Data="61717A6970000000010000003604000078016D915D48536118C7FFCBA3DD94745341DDD48D79E79D51902D334B9DB656AC69434B21048BCC8F0C2985C220F2C629991632AC10073152629694BAE9D9174B52F7E162C68819B4CCEF0F34B0E73D9BEB9CEAC0F3BEEFE1BCBFFFFFF93F273D379583F0A4D29A4CB52B5A321CA0133DD1EF9197C8BAB9B909712DFEE4E1EF3D8CF1A61D30956E835E1D07BD360186EAFD087A5F49EE8A3976FE4CDCD47DC0552343530E87C7B9F178AAFC534FF2E2A1BFB1EFBF1AFED69D02EBAB07740A0EED224EACC1CE3A55824483F5CB7C59F595CAC07CC48CB12C11FD0D4978DB7008C6FA24749424A2FD5AA40F96778B657BE7C5B818DB55B81D53F64689D7DF99C5DE8C7FA189F0CF35F1589A9910D8B58D106C5FAAF07AB2089D543DD30F629A93D1DC5B3DF49444F88F064DEC0EEFD5E2E5C82934F2A771DD96857C870235BE73C2770FCD6B8B65FB70B94CE85FDCE72AF977107FCF7A06576CD92870E5413BA644F3D7AB70DCE1243CD3E82AE0B0F8633CE63F1BFE80B6914CD412AFB1E7E0D2681E0ADD2A544EA9C0EBF6C0592BED816938DB0E627D3588C59911580CC96821BEDA9A058D2307DA4F4A147A54280EA811B02860AAE0C0D700EE3AA98E97B2D9EB381807E468A6EC15C4E73B15C49FC565DF7954072F6065D985B5F747617BB8177DE5C0402560B9050C56D1FE6837864C47601CCE808EFC2BA2B363D98B88EF0EDF153286DDF9D818388675AA60770A02861484868EC33B24076F4917F8163E139522FF32BF12F3BFA6057E633D84396B9AC02F93C61CB1A1C134F8CC7258CD27D043FEADE47F9BE5A7F9158FE5C2BDD41F9B2FFB574CE3BBA7002BC4CF13FB8D34FCE4EF20FE8DE5249E115F4FF3BF399A8D8985771256FCAF17664D088DAB10B4CB11207F1769F43B33D0EB56C31C6AF887FB0DB0AEDD72" />
+					<Bitmap Name="Aliases.browser.pageTrangCh.textnode" Data="61717A6970000000010000003604000078016D915D48536118C7FFCBA3DD94745341DDD48D79E79D51902D334B9DB656AC69434B21048BCC8F0C2985C220F2C629991632AC10073152629694BAE9D9174B52F7E162C68819B4CCEF0F34B0E73D9BEB9CEAC0F3BEEFE1BCBFFFFFF93F273D379583F0A4D29A4CB52B5A321CA0133DD1EF9197C8BAB9B909712DFEE4E1EF3D8CF1A61D30956E835E1D07BD360186EAFD087A5F49EE8A3976FE4CDCD47DC0552343530E87C7B9F178AAFC534FF2E2A1BFB1EFBF1AFED69D02EBAB07740A0EED224EACC1CE3A55824483F5CB7C59F595CAC07CC48CB12C11FD0D4978DB7008C6FA24749424A2FD5AA40F96778B657BE7C5B818DB55B81D53F64689D7DF99C5DE8C7FA189F0CF35F1589A9910D8B58D106C5FAAF07AB2089D543DD30F629A93D1DC5B3DF49444F88F064DEC0EEFD5E2E5C82934F2A771DD96857C870235BE73C2770FCD6B8B65FB70B94CE85FDCE72AF977107FCF7A06576CD92870E5413BA644F3D7AB70DCE1243CD3E82AE0B0F8633CE63F1BFE80B6914CD412AFB1E7E0D2681E0ADD2A544EA9C0EBF6C0592BED816938DB0E627D3588C59911580CC96821BEDA9A058D2307DA4F4A147A54280EA811B02860AAE0C0D700EE3AA98E97B2D9EB381807E468A6EC15C4E73B15C49FC565DF7954072F6065D985B5F747617BB8177DE5C0402560B9050C56D1FE6837864C47601CCE808EFC2BA2B363D98B88EF0EDF153286DDF9D818388675AA60770A02861484868EC33B24076F4917F8163E139522FF32BF12F3BFA6057E633D84396B9AC02F93C61CB1A1C134F8CC7258CD27D043FEADE47F9BE5A7F9158FE5C2BDD41F9B2FFB574CE3BBA7002BC4CF13FB8D34FCE4EF20FE8DE5249E115F4FF3BF399A8D8985771256FCAF17664D088DAB10B4CB11207F1769F43B33D0EB56C31C6AF887FB0DB0AEDD72" />
+					<Bitmap Name="Aliases.browser.pageTrangCh2" Data="61717A6970000000010000003604000078016D915D48536118C7FFCBA3DD94745341DDD48D79E79D51902D334B9DB656AC69434B21048BCC8F0C2985C220F2C629991632AC10073152629694BAE9D9174B52F7E162C68819B4CCEF0F34B0E73D9BEB9CEAC0F3BEEFE1BCBFFFFFF93F273D379583F0A4D29A4CB52B5A321CA0133DD1EF9197C8BAB9B909712DFEE4E1EF3D8CF1A61D30956E835E1D07BD360186EAFD087A5F49EE8A3976FE4CDCD47DC0552343530E87C7B9F178AAFC534FF2E2A1BFB1EFBF1AFED69D02EBAB07740A0EED224EACC1CE3A55824483F5CB7C59F595CAC07CC48CB12C11FD0D4978DB7008C6FA24749424A2FD5AA40F96778B657BE7C5B818DB55B81D53F64689D7DF99C5DE8C7FA189F0CF35F1589A9910D8B58D106C5FAAF07AB2089D543DD30F629A93D1DC5B3DF49444F88F064DEC0EEFD5E2E5C82934F2A771DD96857C870235BE73C2770FCD6B8B65FB70B94CE85FDCE72AF977107FCF7A06576CD92870E5413BA644F3D7AB70DCE1243CD3E82AE0B0F8633CE63F1BFE80B6914CD412AFB1E7E0D2681E0ADD2A544EA9C0EBF6C0592BED816938DB0E627D3588C59911580CC96821BEDA9A058D2307DA4F4A147A54280EA811B02860AAE0C0D700EE3AA98E97B2D9EB381807E468A6EC15C4E73B15C49FC565DF7954072F6065D985B5F747617BB8177DE5C0402560B9050C56D1FE6837864C47601CCE808EFC2BA2B363D98B88EF0EDF153286DDF9D818388675AA60770A02861484868EC33B24076F4917F8163E139522FF32BF12F3BFA6057E633D84396B9AC02F93C61CB1A1C134F8CC7258CD27D043FEADE47F9BE5A7F9158FE5C2BDD41F9B2FFB574CE3BBA7002BC4CF13FB8D34FCE4EF20FE8DE5249E115F4FF3BF399A8D8985771256FCAF17664D088DAB10B4CB11207F1769F43B33D0EB56C31C6AF887FB0DB0AEDD72" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{D95A0934-BE78-45D6-B254-2098596D2A11}">
+				<Data Description="Opens the specified URL in a running instance of the specified browser." BrowserName="edge">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="URL" DefVarType="8" VarType="8" ValueType="6" ValueValue="http://localhost/web_phim/" />
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Maximizes the specified Window object." Action="Maximize">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.BrowserWindow;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh.panelNav;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh.textnode.imageF27Png;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; link." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh.linkNgNhP;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh.textboxUsername;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="anguyen" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh.textboxUsername;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; control." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh.passwordboxPassword;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Sets the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" ParamType="{83D6F80C-4323-4034-92E3-FD2A65D2E6FC}" VariableType="2" VariableName="Password1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh.passwordboxPassword;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh.buttonNgNhP;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Waits until the browser loads the page and is ready to accept user input." Action="Wait">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="WaitTime" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="-1" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.browser.pageTrangCh.buttonNgXuT;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{D11FEEEF-9EF4-4B96-A5FB-0A1E1CACDD89}" />
+</Root>

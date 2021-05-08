@@ -1,0 +1,489 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{444454E8-7EA6-4354-88CE-8D5F088A440E}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="browser" Key="{7110DAB8-30D7-4781-937C-BFC2C1529877}">
+						<Properties>
+							<Property Name="ObjectType">
+								<Value Value="Browser" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="BrowserWindow" Key="{15014E08-EE2F-466E-B30A-9A7A4268CAE6}">
+								<Image FileName="-569447311" Left="-8" Top="-8" Right="1928" Bottom="1088" />
+								<TypeInfo Item0="{319A2B65-FBA5-466B-ADB7-CCAAE2EAF261}" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="BrowserWindow" />
+									</Property>
+									<Property Name="ObjectIdentifier">
+										<Value Value="0" Type="0" />
+									</Property>
+								</Properties>
+							</Child>
+							<Child Name="pageTrangCh" Key="{7AB24DEE-7117-4333-9417-782A1BC508D0}">
+								<Image FileName="-1744222552" Left="2" Top="71" Right="1920" Bottom="1080" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="http://localhost/web_phim/*" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="textnode" Key="{E1DD1EF5-B0EF-4115-9ACB-960ECA57D18B}">
+										<Image FileName="-1744222552" Left="463" Top="254" Right="1133" Bottom="1089" />
+										<Selectors>
+											<Selector>
+												<Value Value=".toan-bo &gt; .list-film" />
+											</Selector>
+											<Selector>
+												<Value Value="(//ul[contains(.,&apos;KẺ ĐÀO TẨU GIẤC MƠ&apos;)])[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;list-movie-update&apos;]/div/ul" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="imageF27Png" Key="{A3AAEFD5-ED3C-4492-A4A9-591D944DCD3D}">
+										<Image FileName="-1744222552" Left="478" Top="269" Right="623" Bottom="464" />
+										<TypeInfo Item0="{CB85828A-E1F7-41F7-880A-794E276EEBE8}" />
+										<Selectors>
+											<Selector>
+												<Value Value="[data-liked=&apos;852&apos;] [src=&apos;images/f27.png&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;list-movie-update&apos;]/div/ul/li/div/a/img" />
+											</Selector>
+											<Selector>
+												<Value Value="(//a[contains(@href, &apos;?mod=detail&amp;film_id=27&apos;)])[3]/img" />
+											</Selector>
+											<Selector>
+												<Value Value="//img" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxKw" Key="{BF7ACA79-E320-4052-90A5-97E75433D9F4}">
+										<Image FileName="1668647158" Left="660" Top="83" Right="1012" Bottom="123" />
+										<TypeInfo Item0="{D4D757B8-F86C-4A4E-AF9C-E0634105F732}" />
+										<Selectors>
+											<Selector>
+												<Value Value="*[name=&apos;kw&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="[name=&apos;kw&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="input[type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;text&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;kw&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;search&apos;]/form/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="button" Key="{1100BEFE-5EB1-4BB9-B5F1-D6AB9F4BE5EE}">
+										<Image FileName="2112841045" Left="1020" Top="83" Right="1076" Bottom="123" />
+										<TypeInfo Item0="{2D52690E-87E5-4628-BBB7-14EBA5099957}" />
+										<Selectors>
+											<Selector>
+												<Value Value="form &gt; [type=&apos;submit&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@type=&apos;submit&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;search&apos;]/form/button" />
+											</Selector>
+											<Selector>
+												<Value Value="//button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode2" Key="{9A7A2C70-ECC3-41F3-85F7-B524D7448B7C}">
+										<Image FileName="1516907661" Left="463" Top="134" Right="1443" Bottom="134" />
+										<Selectors>
+											<Selector>
+												<Value Value="//ul[contains(., &apos;thể loại&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value=".menu" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;nav&apos;]/ul" />
+											</Selector>
+											<Selector>
+												<Value Value="//ul" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textnode3" Key="{9393FBCB-DBF1-44B9-9464-BDB6304980DD}">
+										<Image FileName="1516907661" Left="463" Top="134" Right="514" Bottom="173" />
+										<Selectors>
+											<Selector>
+												<Value Value=".home" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;nav&apos;]/ul/li" />
+											</Selector>
+											<Selector>
+												<Value Value="//li" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkIndexPhp" Key="{51268581-CBA9-43C2-B612-364EB071C253}">
+										<Image FileName="1516907661" Left="465" Top="134" Right="512" Bottom="173" />
+										<TypeInfo Item0="{CB85828A-E1F7-41F7-880A-794E276EEBE8}" />
+										<Selectors>
+											<Selector>
+												<Value Value="a[href=&apos;index.php&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="[href=&apos;index.php&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;nav&apos;]/ul/li/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[contains(@href, &apos;index.php&apos;)]" />
+											</Selector>
+											<Selector>
+												<Value Value="//li/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="linkNgNhP" Key="{DC590753-ED36-4AC2-894F-AD97CC9DE774}">
+										<Image FileName="-1322417665" Left="1149" Top="83" Right="1246" Bottom="122" />
+										<TypeInfo Item0="{CB85828A-E1F7-41F7-880A-794E276EEBE8}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#log" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[text()=&apos;Đăng nhập&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[@id=&apos;log&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;sign&apos;]/div/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxUsername" Key="{A7B35906-5A10-47BF-80F8-F05FAA723A91}">
+										<Image FileName="-786703248" Left="1164" Top="128" Right="1412" Bottom="161" />
+										<TypeInfo Item0="{D4D757B8-F86C-4A4E-AF9C-E0634105F732}" />
+										<Selectors>
+											<Selector>
+												<Value Value="*[name=&apos;username&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="[name=&apos;username&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="(//input[@type=&apos;text&apos;])[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;username&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;login-form&apos;]/form/div/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{06D00A61-2AB9-4BA8-9209-F0A5DFB316E4}">
+										<Image FileName="-1926825471" Left="1164" Top="171" Right="1412" Bottom="204" />
+										<TypeInfo Item0="{D4D757B8-F86C-4A4E-AF9C-E0634105F732}" />
+										<Selectors>
+											<Selector>
+												<Value Value="*[name=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="[type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="input[type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;login-form&apos;]/form/div[2]/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonNgNhP" Key="{03DBD058-99B4-4457-9E08-7E39726E35E8}">
+										<Image FileName="1051098367" Left="1312" Top="219" Right="1414" Bottom="253" />
+										<TypeInfo Item0="{2D52690E-87E5-4628-BBB7-14EBA5099957}" />
+										<Selectors>
+											<Selector>
+												<Value Value="*[name=&apos;btn_login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[text()=&apos;Đăng nhập&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="[name=&apos;btn_login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@name=&apos;btn_login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;login-form&apos;]/form/div[3]/button" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonNgXuT" Key="{CA63FE18-69AD-432B-983D-957165BF349E}">
+										<Image FileName="1655609135" Left="1104" Top="83" Right="1201" Bottom="122" />
+										<TypeInfo Item0="{2D52690E-87E5-4628-BBB7-14EBA5099957}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#logout" />
+											</Selector>
+											<Selector>
+												<Value Value="*[name=&apos;log_out&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[text()=&apos;Đăng xuất&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@id=&apos;logout&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;sign&apos;]/form/button" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/form/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="panelNav" Key="{A4AE9048-BD68-4A5C-99E2-7E47557720B5}">
+										<Image FileName="-248104490" Left="2" Top="134" Right="1903" Bottom="173" />
+										<TypeInfo Item0="{CB85828A-E1F7-41F7-880A-794E276EEBE8}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#nav" />
+											</Selector>
+											<Selector>
+												<Value Value="(//div[contains(.,&apos;thể loại&apos;)])[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;nav&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;wrapper&apos;]/div[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="//body/div/div[2]" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="pageTrangCh2" Key="{F7316C6D-7546-4CE5-AAA8-31CF04F673BB}">
+								<Image FileName="16645545" Left="2" Top="71" Right="1920" Bottom="1080" />
+								<Properties>
+									<Property Name="ObjectType">
+										<Value Value="Page" />
+									</Property>
+									<Property Name="URL">
+										<Value Value="http://localhost/web/web_phim/index.php" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="linkNgNhP" Key="{5711F008-093E-4E23-A892-5F85F47FBC58}">
+										<Image FileName="16645545" Left="1149" Top="83" Right="1246" Bottom="122" />
+										<TypeInfo Item0="{CB85828A-E1F7-41F7-880A-794E276EEBE8}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#log" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[text()=&apos;Đăng nhập&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//a[@id=&apos;log&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;sign&apos;]/div/a" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/div/a" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="textboxUsername" Key="{63BBB4A4-7E57-43BC-A7A1-3EE19F94CAF6}">
+										<Image FileName="-455904772" Left="1164" Top="128" Right="1412" Bottom="161" />
+										<TypeInfo Item0="{D4D757B8-F86C-4A4E-AF9C-E0634105F732}" />
+										<Selectors>
+											<Selector>
+												<Value Value="*[name=&apos;username&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="[name=&apos;username&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="(//input[@type=&apos;text&apos;])[2]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;username&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;login-form&apos;]/form/div/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="passwordboxPassword" Key="{76300257-5CC1-48F9-AA3E-CEA7D5D59638}">
+										<Image FileName="1837803737" Left="1164" Top="171" Right="1412" Bottom="204" />
+										<TypeInfo Item0="{D4D757B8-F86C-4A4E-AF9C-E0634105F732}" />
+										<Selectors>
+											<Selector>
+												<Value Value="*[name=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="[type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="input[type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@type=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//input[@name=&apos;password&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;login-form&apos;]/form/div[2]/input" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/input" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonNgNhP" Key="{AB63E5E8-380D-4FAA-96FD-84DDAB12C627}">
+										<Image FileName="902084274" Left="1312" Top="219" Right="1414" Bottom="253" />
+										<TypeInfo Item0="{2D52690E-87E5-4628-BBB7-14EBA5099957}" />
+										<Selectors>
+											<Selector>
+												<Value Value="*[name=&apos;btn_login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[text()=&apos;Đăng nhập&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="[name=&apos;btn_login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@name=&apos;btn_login&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;login-form&apos;]/form/div[3]/button" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[3]/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+									<Child Name="buttonNgXuT" Key="{3AB8D2E0-9160-4A54-A22C-CD1C52946600}">
+										<Image FileName="976833939" Left="1104" Top="83" Right="1201" Bottom="122" />
+										<TypeInfo Item0="{2D52690E-87E5-4628-BBB7-14EBA5099957}" />
+										<Selectors>
+											<Selector>
+												<Value Value="#logout" />
+											</Selector>
+											<Selector>
+												<Value Value="*[name=&apos;log_out&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[text()=&apos;Đăng xuất&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//button[@id=&apos;logout&apos;]" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[@id=&apos;sign&apos;]/form/button" />
+											</Selector>
+											<Selector>
+												<Value Value="//div[2]/form/button" />
+											</Selector>
+										</Selectors>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="browser" Owner="{7110DAB8-30D7-4781-937C-BFC2C1529877}">
+			<Child Name="BrowserWindow" Owner="{15014E08-EE2F-466E-B30A-9A7A4268CAE6}" />
+			<Child Name="pageTrangCh" Owner="{7AB24DEE-7117-4333-9417-782A1BC508D0}">
+				<Child Name="textnode" Owner="{E1DD1EF5-B0EF-4115-9ACB-960ECA57D18B}">
+					<Child Name="imageF27Png" Owner="{A3AAEFD5-ED3C-4492-A4A9-591D944DCD3D}" />
+				</Child>
+				<Child Name="textboxKw" Owner="{BF7ACA79-E320-4052-90A5-97E75433D9F4}" />
+				<Child Name="button" Owner="{1100BEFE-5EB1-4BB9-B5F1-D6AB9F4BE5EE}" />
+				<Child Name="textnode2" Owner="{9A7A2C70-ECC3-41F3-85F7-B524D7448B7C}">
+					<Child Name="textnode3" Owner="{9393FBCB-DBF1-44B9-9464-BDB6304980DD}">
+						<Child Name="linkIndexPhp" Owner="{51268581-CBA9-43C2-B612-364EB071C253}" />
+					</Child>
+				</Child>
+				<Child Name="linkNgNhP" Owner="{DC590753-ED36-4AC2-894F-AD97CC9DE774}" />
+				<Child Name="textboxUsername" Owner="{A7B35906-5A10-47BF-80F8-F05FAA723A91}" />
+				<Child Name="passwordboxPassword" Owner="{06D00A61-2AB9-4BA8-9209-F0A5DFB316E4}" />
+				<Child Name="buttonNgNhP" Owner="{03DBD058-99B4-4457-9E08-7E39726E35E8}" />
+				<Child Name="buttonNgXuT" Owner="{CA63FE18-69AD-432B-983D-957165BF349E}" />
+				<Child Name="panelNav" Owner="{A4AE9048-BD68-4A5C-99E2-7E47557720B5}" />
+			</Child>
+			<Child Name="pageTrangCh2" Owner="{F7316C6D-7546-4CE5-AAA8-31CF04F673BB}">
+				<Child Name="linkNgNhP" Owner="{5711F008-093E-4E23-A892-5F85F47FBC58}" />
+				<Child Name="textboxUsername" Owner="{63BBB4A4-7E57-43BC-A7A1-3EE19F94CAF6}" />
+				<Child Name="passwordboxPassword" Owner="{76300257-5CC1-48F9-AA3E-CEA7D5D59638}" />
+				<Child Name="buttonNgNhP" Owner="{AB63E5E8-380D-4FAA-96FD-84DDAB12C627}" />
+				<Child Name="buttonNgXuT" Owner="{3AB8D2E0-9160-4A54-A22C-CD1C52946600}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>
